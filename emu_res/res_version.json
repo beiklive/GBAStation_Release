@@ -20,6 +20,29 @@
                     "path": "sdmc:/GBAStation/core",
                     "dialog": "是否下载NDS核心？",
                     "version": "0.0.1"
+                }
+            ]
+        },
+        {
+            "header": "金手指库和着色器滤镜",
+            "items": [
+                {
+                    "material icon": "0xe3e9",
+                    "name": "RetroArch金手指库",
+                    "type": "zip",
+                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/cheat_db/RetroArch.zip",
+                    "path": "sdmc:/GBAStation/cheats/RetroArch",
+                    "dialog": "是否下载RetroArch金手指库(GBA/GBC/GB)？",
+                    "version": "0.0.1"
+                },
+                {
+                    "material icon": "0xe3e9",
+                    "name": "RetroArch着色器",
+                    "type": "zip",
+                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/shader/shader.zip",
+                    "path": "sdmc:/GBAStation/shaders",
+                    "dialog": "是否下载RetroArch着色器滤镜？",
+                    "version": "0.0.1"
                 },
                 {
                     "material icon": "0xe3e9",
@@ -29,6 +52,15 @@
                     "path": "sdmc:/GBAStation/cheats",
                     "dialog": "是否下载NDS金手指库？",
                     "version": "0.0.2"
+                },
+                {
+                    "material icon": "0xe3e9",
+                    "name": "GBA中文金手指",
+                    "type": "zip",
+                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/cheat_db/GBACheatCN.zip",
+                    "path": "sdmc:/GBAStation/cheats",
+                    "dialog": "是否下载GBA中文金手指？",
+                    "version": "0.0.1"
                 }
             ]
         }
