@@ -1,0 +1,68 @@
+{
+    "list": [
+        {
+            "header": "运行相关",
+            "items": [
+                {
+                    "material icon": "0xe3e9",
+                    "name": "NDS固件",
+                    "type": "zip",
+                    "url": "hhttps://purge.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/firmware/nds_firmware.zip",
+                    "path": "sdmc:/GBAStation/bios/NDS",
+                    "dialog": "是否下载NDS固件？",
+                    "version": "0.0.1"
+                },
+                {
+                    "material icon": "0xe3e9",
+                    "name": "NDS运行核心",
+                    "type": "zip",
+                    "url": "hhttps://purge.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/core/GBAStationNDSStub.zip",
+                    "path": "sdmc:/GBAStation/core",
+                    "dialog": "是否下载NDS核心？",
+                    "version": "0.0.1"
+                },
+                {
+                    "material icon": "0xe3e9",
+                    "name": "NDS金手指库",
+                    "type": "file",
+                    "url": "hhttps://purge.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/cheat_db/usrcheat.zip",
+                    "path": "sdmc:/GBAStation/cheats",
+                    "dialog": "是否下载NDS金手指库？",
+                    "version": "0.0.1"
+                }
+            ]
+        },
+        {
+            "header": "遮罩相关",
+            "items": [
+                {
+                    "material icon": "0xe3e9",
+                    "name": "fc遮罩",
+                    "type": "zip",
+                    "url": "hhttps://purge.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/fc_overlay.zip",
+                    "path": "sdmc:/GBAStation/overlays/fc",
+                    "dialog": "是否下载fc游戏遮罩？",
+                    "version": "0.0.1"
+                },
+                {
+                    "material icon": "0xe3e9",
+                    "name": "sfc遮罩",
+                    "type": "zip",
+                    "url": "hhttps://purge.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/sfc_overlay.zip",
+                    "path": "sdmc:/GBAStation/overlays/sfc",
+                    "dialog": "是否下载sfc游戏遮罩？",
+                    "version": "0.0.1"
+                },
+                {
+                    "material icon": "0xe3e9",
+                    "name": "gba遮罩",
+                    "type": "zip",
+                    "url": "hhttps://purge.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/gba_overlay.zip",
+                    "path": "sdmc:/GBAStation/overlays/gba",
+                    "dialog": "是否下载gba游戏遮罩？",
+                    "version": "0.0.1"
+                }
+            ]
+        }
+    ]
+}
