@@ -7,7 +7,7 @@
                     "material icon": "0xe3e9",
                     "name": "NDS固件",
                     "type": "zip",
-                    "url": "hhttps://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/firmware/nds_firmware.zip",
+                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/firmware/nds_firmware.zip",
                     "path": "sdmc:/GBAStation/bios/NDS",
                     "dialog": "是否下载NDS固件？",
                     "version": "0.0.1"
@@ -16,7 +16,7 @@
                     "material icon": "0xe3e9",
                     "name": "NDS运行核心",
                     "type": "zip",
-                    "url": "hhttps://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/core/GBAStationNDSStub.zip",
+                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/core/GBAStationNDSStub.zip",
                     "path": "sdmc:/GBAStation/core",
                     "dialog": "是否下载NDS核心？",
                     "version": "0.0.1"
@@ -25,7 +25,7 @@
                     "material icon": "0xe3e9",
                     "name": "NDS金手指库",
                     "type": "file",
-                    "url": "hhttps://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/cheat_db/usrcheat.zip",
+                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/cheat_db/usrcheat.zip",
                     "path": "sdmc:/GBAStation/cheats",
                     "dialog": "是否下载NDS金手指库？",
                     "version": "0.0.1"
