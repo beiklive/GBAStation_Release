@@ -24,7 +24,7 @@
             ]
         },
         {
-            "header": "金手指库和着色器滤镜",
+            "header": "额外文件",
             "items": [
                 {
                     "material icon": "0xe3e9",
@@ -60,6 +60,33 @@
                     "url": "https://download.nswiki.cn/hahappify/xlcj/plugin/GBAStation/cheat_db/GBACheatCN.zip",
                     "path": "sdmc:/GBAStation/cheats",
                     "dialog": "是否下载GBA中文金手指？",
+                    "version": "0.0.1"
+                },
+                {
+                    "material icon": "0xe3e9",
+                    "name": "GB/GBC遮罩",
+                    "type": "zip",
+                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/overlays/GBC.zip",
+                    "path": "sdmc:/GBAStation/overlays/GBC",
+                    "dialog": "是否下载GB/GBC遮罩？",
+                    "version": "0.0.1"
+                },
+                {
+                    "material icon": "0xe3e9",
+                    "name": "GBA遮罩",
+                    "type": "zip",
+                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/overlays/GBA.zip",
+                    "path": "sdmc:/GBAStation/overlays/GBA",
+                    "dialog": "是否下载GBA遮罩？",
+                    "version": "0.0.1"
+                },
+                {
+                    "material icon": "0xe3e9",
+                    "name": "NDS遮罩",
+                    "type": "zip",
+                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/overlays/NDS.zip",
+                    "path": "sdmc:/GBAStation/overlays/NDS",
+                    "dialog": "是否下载NDS遮罩？",
                     "version": "0.0.1"
                 }
             ]
