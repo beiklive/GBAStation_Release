@@ -7,7 +7,7 @@
                     "material icon": "0xe3e9",
                     "name": "NDS固件",
                     "type": "zip",
-                    "url": "https://download.nswiki.cn/hahappify/xlcj/plugin/GBAStation/firmware/nds_firmware.zip",
+                    "url": "https://file.beiklive.top/file/GBAStation/firmware/nds_firmware.zip",
                     "path": "sdmc:/GBAStation/bios/NDS",
                     "dialog": "是否下载NDS固件？",
                     "version": "0.0.1"
@@ -16,7 +16,7 @@
                     "material icon": "0xe3e9",
                     "name": "NDS运行核心",
                     "type": "zip",
-                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/core/GBAStationNDSStub.zip",
+                    "url": "https://file.beiklive.top/file/GBAStation/core/GBAStationNDSStub.zip",
                     "path": "sdmc:/GBAStation/core",
                     "dialog": "是否下载NDS核心？",
                     "version": "0.0.1"
@@ -30,7 +30,7 @@
                     "material icon": "0xe3e9",
                     "name": "RetroArch金手指库",
                     "type": "zip",
-                    "url": "https://download.nswiki.cn/hahappify/xlcj/plugin/GBAStation/cheat_db/RetroArch.zip",
+                    "url": "https://file.beiklive.top/file/GBAStation/cheat_db/RetroArch.zip",
                     "path": "sdmc:/GBAStation/cheats/RetroArch",
                     "dialog": "是否下载RetroArch金手指库(GBA/GBC/GB)？",
                     "version": "0.0.1"
@@ -39,7 +39,7 @@
                     "material icon": "0xe3e9",
                     "name": "RetroArch着色器",
                     "type": "zip",
-                    "url": "https://download.nswiki.cn/hahappify/xlcj/plugin/GBAStation/shader/shader.zip",
+                    "url": "https://file.beiklive.top/file/GBAStation/shader/shader.zip",
                     "path": "sdmc:/GBAStation/shaders",
                     "dialog": "是否下载RetroArch着色器滤镜？",
                     "version": "0.0.1"
@@ -48,7 +48,7 @@
                     "material icon": "0xe3e9",
                     "name": "NDS金手指库",
                     "type": "zip",
-                    "url": "https://download.nswiki.cn/hahappify/xlcj/plugin/GBAStation/cheat_db/usrcheat.zip",
+                    "url": "https://file.beiklive.top/file/GBAStation/cheat_db/usrcheat.zip",
                     "path": "sdmc:/GBAStation/cheats",
                     "dialog": "是否下载NDS金手指库？",
                     "version": "0.0.2"
@@ -57,7 +57,7 @@
                     "material icon": "0xe3e9",
                     "name": "GBA中文金手指",
                     "type": "zip",
-                    "url": "https://download.nswiki.cn/hahappify/xlcj/plugin/GBAStation/cheat_db/GBACheatCN.zip",
+                    "url": "https://file.beiklive.top/file/GBAStation/cheat_db/GBACheatCN.zip",
                     "path": "sdmc:/GBAStation/cheats",
                     "dialog": "是否下载GBA中文金手指？",
                     "version": "0.0.1"
@@ -66,7 +66,7 @@
                     "material icon": "0xe3e9",
                     "name": "GB/GBC遮罩",
                     "type": "zip",
-                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/overlays/GBC.zip",
+                    "url": "https://file.beiklive.top/file/GBAStation/overlays/GBC.zip",
                     "path": "sdmc:/GBAStation/overlays/GBC",
                     "dialog": "是否下载GB/GBC遮罩？",
                     "version": "0.0.1"
@@ -75,7 +75,7 @@
                     "material icon": "0xe3e9",
                     "name": "GBA遮罩",
                     "type": "zip",
-                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/overlays/GBA.zip",
+                    "url": "https://file.beiklive.top/file/GBAStation/overlays/GBA.zip",
                     "path": "sdmc:/GBAStation/overlays/GBA",
                     "dialog": "是否下载GBA遮罩？",
                     "version": "0.0.1"
@@ -84,10 +84,10 @@
                     "material icon": "0xe3e9",
                     "name": "NDS遮罩",
                     "type": "zip",
-                    "url": "https://cdn.jsdelivr.net/gh/beiklive/GBAStation_Release@main/emu_res/overlays/NDS.zip",
+                    "url": "https://file.beiklive.top/file/GBAStation/overlays/NDS.zip",
                     "path": "sdmc:/GBAStation/overlays/NDS",
                     "dialog": "是否下载NDS遮罩？",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 }
             ]
         }
